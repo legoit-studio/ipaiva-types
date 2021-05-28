@@ -1,0 +1,11 @@
+{
+  "name": "@ipaiva/types",
+  "version": "0.0.3",
+  "description": "",
+  "main": "index.d.ts",
+  "scripts": {},
+  "keywords": [],
+  "author": "ArvinWei",
+  "email": "arvinweiii@gmail.com",
+  "license": "MIT"
+}
