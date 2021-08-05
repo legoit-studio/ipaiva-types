@@ -14,7 +14,7 @@ declare module 'ipaiva' {
     }
 
     interface TextEditor {
-        on(event: 'completed', fn: (content: string) => void): this;
+	onCompleted<T>(content: T): void
     }
 
     export namespace textEditor {
